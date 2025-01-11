@@ -55,5 +55,6 @@ Hi, my name is Steven. I'm a Data and Automation Engineer focused on automation,
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stevenac-code&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+
 ## 🏆 GitHub Trophies
 ![Trofeos de GitHub](https://github-profile-trophy.vercel.app/?username=Stevenac-code&theme=darkhub&no-frame=true&row=1)
