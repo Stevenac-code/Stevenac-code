@@ -11,7 +11,7 @@
 
 <!-- About me -->
 <p>
-Hi, my name is Steven. I'm a Data and Automation Engineer focused on automation, data analytics, and RPA. I enjoy writing maintainable code and building challenging projects, programming, and creating products with a great user experience. 😊👌
+Hi, my name is Steven. I'm a Data and Automation Engineer focused on automation, data analytics, and RPA. I enjoy writing maintainable code and building challenging projects, programming, and creating products with a great user experience. 😊👌 
 </p>
 
 <!-- Personal Stuffs -->
