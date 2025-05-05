@@ -1,6 +1,6 @@
 ![Banner](profile/automation_gif.gif)
 <!-- retro visitor counter -->
-<p align="center"> 
+<p align="center">
   <img src="https://profile-counter.glitch.me/Stevenac-code/count.svg" />
 </p>
 
