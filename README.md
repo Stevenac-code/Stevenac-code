@@ -1,4 +1,4 @@
-![Banner](profile/automation_gif.gif)
+![Banner](profile/github-profile-cover.png)
 <!-- retro visitor counter -->
 <p align="center">
   <img src="https://profile-counter.glitch.me/Stevenac-code/count.svg" />
